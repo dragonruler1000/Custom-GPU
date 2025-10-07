@@ -10,3 +10,9 @@ This is my journal of the design and building process of **Custom VGA gpu**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/260).
 
 
+## 10/7/2025 - starting Resaerch for general parts list.  
+
+I started work on getting all the parts i need onto the schematic and will work on moving them onto separate sheets later so i can easily know what sheet is doing what.
+It went pretty well especially after i figured out that 2 of the chips i was trying to add where split into multiple parts.![Screenshot_20251006_211927.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODM0LCJwdXIiOiJibG9iX2lkIn19--e918331082e728263e8e0d2de20716b8371ddcba/Screenshot_20251006_211927.png)
+  
+
