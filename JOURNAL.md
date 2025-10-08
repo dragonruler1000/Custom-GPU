@@ -16,3 +16,11 @@ I started work on getting all the parts i need onto the schematic and will work 
 It went pretty well especially after i figured out that 2 of the chips i was trying to add where split into multiple parts.![Screenshot_20251006_211927.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODM0LCJwdXIiOiJibG9iX2lkIn19--e918331082e728263e8e0d2de20716b8371ddcba/Screenshot_20251006_211927.png)
   
 
+## 10/8/2025 - Set up the schematic for the Horizontal sync  
+
+I figured out what parts i need to do for the Horizontal sync circuit and did the full routing for the schematic.
+Sense i am using Ben Eater's schematic for the GPU then making the PCB and case for the GPU i just needed to place the symbols in the right place and wire them together properly.
+Took me longer then i would like to admit to figure out how to make wires with nothing on either end. ![Screenshot_20251007_200756.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTkzLCJwdXIiOiJibG9iX2lkIn19--3c0c81a6cb04f3dd4d8eb75177ff3cc8334c79dc/Screenshot_20251007_200756.png)
+![Screenshot_20251007_200810.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTkyLCJwdXIiOiJibG9iX2lkIn19--4f98720648d70f60025ccccedbb43e4fbe2b1b39/Screenshot_20251007_200810.png)
+  
+
