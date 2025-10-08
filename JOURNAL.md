@@ -16,11 +16,19 @@ I started work on getting all the parts i need onto the schematic and will work 
 It went pretty well especially after i figured out that 2 of the chips i was trying to add where split into multiple parts.![Screenshot_20251006_211927.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODM0LCJwdXIiOiJibG9iX2lkIn19--e918331082e728263e8e0d2de20716b8371ddcba/Screenshot_20251006_211927.png)
   
 
-## 10/8/2025 - Set up the schematic for the Horizontal sync  
+## 10/8/2025 1 AM - Set up the schematic for the Horizontal sync  
 
 I figured out what parts i need to do for the Horizontal sync circuit and did the full routing for the schematic.
 Sense i am using Ben Eater's schematic for the GPU then making the PCB and case for the GPU i just needed to place the symbols in the right place and wire them together properly.
 Took me longer then i would like to admit to figure out how to make wires with nothing on either end. ![Screenshot_20251007_200756.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTkzLCJwdXIiOiJibG9iX2lkIn19--3c0c81a6cb04f3dd4d8eb75177ff3cc8334c79dc/Screenshot_20251007_200756.png)
 ![Screenshot_20251007_200810.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTkyLCJwdXIiOiJibG9iX2lkIn19--4f98720648d70f60025ccccedbb43e4fbe2b1b39/Screenshot_20251007_200810.png)
+  
+
+## 10/8/2025 3 AM - Set up the schematic for the Vertical sync  
+
+Like last time i just needed to place and wire the parts for the vertical sync based on the preexisting schematic.
+I Figured out that if i open the image in a new tab it makes it easier to zoom in and see the wires. So it was easier for me to do this one the the horizontal sync because i knew more what i was doing.
+![Screenshot_20251007_221106.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--a43c37a8357344a5b0fe87044bc770b437e58d9a/Screenshot_20251007_221106.png)
+![Screenshot_20251007_221018.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--020de6c6bf28a8f5ac6efce002d0800df376a2b8/Screenshot_20251007_221018.png)
   
 
