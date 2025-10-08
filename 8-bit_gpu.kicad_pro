@@ -371,6 +371,12 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -428,6 +434,10 @@
     [
       "89af2572-55d0-454d-b81a-7f8aa04c2126",
       "HSync"
+    ],
+    [
+      "458ef0b3-7c7a-4ffb-b23d-01e5158f79b1",
+      "VSync"
     ]
   ],
   "text_variables": {}
