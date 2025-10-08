@@ -424,6 +424,10 @@
     [
       "798b5078-eae9-4cb8-b462-4f55d93248dd",
       "Root"
+    ],
+    [
+      "89af2572-55d0-454d-b81a-7f8aa04c2126",
+      "HSync"
     ]
   ],
   "text_variables": {}
